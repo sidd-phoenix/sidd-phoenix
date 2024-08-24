@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 📚 Currently Learning **DeepLearning**
 - 📍 CSE Undergrad **@NIT Surat**
+- 🍀 Learning to understand **Arabic**
+- 
 
 ## 💻Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
@@ -39,5 +41,42 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidd-phoenix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-phoenix&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
+<br />
+
+---
+## 🧑🏻‍💻Coding Profiles:
+
+<p align="center">
+<a href="https://codeforces.com/profile/PhoenixCipher"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/sidd_phoenix"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
+<a href="https://www.hackerearth.com/@aadilsiddiqui2016"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>&nbsp;
+</p>
+
+
 ## 🌏Socials:
+
+<p align="center">
+<a href="https://github.com/sidd-phoenix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/phoenix-cipher/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/sidd_phoenix/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;                         
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=specterprofessional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+</p>
+
+ ---
  
+<!--
+ ## Extras:
+<details>
+  <summary>Profile Views</summary>
+  <img src="https://badges.pufler.dev/visits/sidd-phoenix/sidd-phoenix" alt="Visits Badge">
+</details>
+-->
