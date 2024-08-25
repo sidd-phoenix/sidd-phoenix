@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📚 Currently Learning **DeepLearning**
 - 📍 CSE Undergrad **@NIT Surat**
 - 🍀 Learning to understand **Arabic**
-- 
+- 🏁 New to the code race, but ready to outpace!
 
 ## 💻Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
