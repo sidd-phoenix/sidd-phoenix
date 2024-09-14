@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/PhoenixCipher"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/sidd_phoenix"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
 <a href="https://www.hackerearth.com/@aadilsiddiqui2016"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/user/sidd_phoenix/"><img src="https://img.shields.io/badge/GeeksforGeeks-0A1F2D?style=for-the-badge&logo=geeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+</a>&nbsp;
 </p>
 
 
