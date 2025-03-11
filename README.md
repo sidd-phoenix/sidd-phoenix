@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📚 Currently Learning **DeepLearning**
 - 📍 CSE Undergrad **@NIT Surat**
-- 🍀 Learning **عربي** and **un peu Français**
+- 🍀 Learning **un peu Français**
 - 🏁 New to the code race, but ready to outpace!
 
 ## 🌏Connect:
