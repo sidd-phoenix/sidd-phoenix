@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋`Hello World!`
 
 - 📚 Currently Learning **DeepLearning**
-- 📍 CSE Undergrad **@NIT Surat**
+- 📍 CSE Undergrad **@NIT Surat'26**
 - 🍀 Learning **un peu Français** et *اردو*
 - 🏁 New to the code race, but ready to outpace!
 
